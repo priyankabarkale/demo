@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/data_ingestion.py
+src/data_preprocessing.py
+src/logger.py
+src/model_builder.py
+src/model_evaluator.py
+src/model_predictor.py
+src/aiops_project.egg-info/PKG-INFO
+src/aiops_project.egg-info/SOURCES.txt
+src/aiops_project.egg-info/dependency_links.txt
+src/aiops_project.egg-info/entry_points.txt
+src/aiops_project.egg-info/requires.txt
+src/aiops_project.egg-info/top_level.txt
+tests/test_pipeline.py
